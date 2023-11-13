@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tK97VqQJcHYza9ye4jypZgBTBbXFKUHPxL/JC8LqS7IBZwGBXMVaX20myvkbGA146kVfxh7trq4nfIC099VZgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\orpheus\\source\\repos\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\orpheus\\.nuget\\packages\\erroror\\1.3.0\\erroror.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
